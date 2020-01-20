@@ -1,0 +1,10 @@
+[
+    {
+        "img": "image directory!", 
+        "name": "This is his name!"
+    }, 
+    {
+        "img2": "image2 directory!", 
+        "name2": "This is her name!"
+    }
+]
