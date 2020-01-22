@@ -1,0 +1,86 @@
+[
+    {
+        "img": "assets/images/messi.jpg", 
+        "name": ["Lionel Messi", "He won six golden boot award."]
+    }, 
+    {
+        "img": "assets/images/maradona.jpg", 
+        "name": ["Maradona"]
+    },
+    {
+        "img": "assets/images/Neuer.jpg", 
+        "name": ["Neuer"]
+    },
+    {
+        "img": "assets/images/Neymar.jpg", 
+        "name": ["Neymar"]
+    },
+    {
+        "img": "assets/images/Zidane.jpg", 
+        "name": ["Zidane"]
+    },
+    {
+        "img": "assets/images/ZlatanIbrahimovic.jpg", 
+        "name": ["Zlatan Ibrahimovic"]
+    },
+    {
+        "img": "assets/images/Iniesta.jpg", 
+        "name": ["Iniesta"]
+    },
+    {
+        "img": "assets/images/Suarez.jpg", 
+        "name": ["Suarez"]
+    },
+    {
+        "img": "assets/images/Rooney.jpg", 
+        "name": ["Rooney"]
+    },
+    {
+        "img": "assets/images/Pique.jpg", 
+        "name": ["Pique"]
+    },
+    {
+        "img": "assets/images/ThomasMuller.jpg", 
+        "name": ["Thomas Muller"]
+    },
+    {
+        "img": "assets/images/Griezmann.jpg", 
+        "name": ["Griezmann"]
+    },
+    {
+        "img": "assets/images/Lewandowski.jpg", 
+        "name": ["Lewandowski"]
+    },
+    {
+        "img": "assets/images/Robben.jpg", 
+        "name": ["Robben"]
+    },
+    {
+        "img": "assets/images/Pirlo.jpg", 
+        "name": ["Pirlo"]
+    },
+    {
+        "img": "assets/images/Buffon.jpg", 
+        "name": ["Buffon"]
+    },
+    {
+        "img": "assets/images/Silva.png", 
+        "name": ["Silva"]
+    },
+    {
+        "img": "assets/images/Pogba.jpg", 
+        "name": ["Pogba"]
+    },
+    {
+        "img": "assets/images/Bale.jpg", 
+        "name": ["Bale"]
+    },
+    {
+        "img": "assets/images/CristianoRonaldo.jpg", 
+        "name": ["Cristian Ronaldo"]
+    },
+    {
+        "img": "assets/images/FabioGrosso.jpg", 
+        "name": ["Fabio Grosso"]
+    }
+]
